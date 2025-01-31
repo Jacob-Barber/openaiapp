@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCc8Oka5KG7mzlkpeRZE8nVR_KjK4_mMg0NQ&s", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
